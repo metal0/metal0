@@ -6,7 +6,7 @@
 I'm sysadmin and a hobby backend developer based in <img width="20" align="center" src="https://img.icons8.com/color/96/000000/portugal.png"/> **Portugal**.
 
 Platforms:
-<a href="https://discord.com/users/344837487526412300" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a><a href="https://matrix.to/#/@metal0:matrix.org" target="_blank"><img alt="Matrix" src="https://img.shields.io/badge/%5BM%5D-metal0-green"></a>
+<a href="https://discord.com/users/344837487526412300" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a><a href="https://matrix.to/#/@metal0:matrix.org" target="_blank"><img align="center" alt="Matrix" src="https://img.shields.io/badge/%5BM%5D-metal0-green"></a>
 
 Here are some of the technologies I enjoy using in my projects:
 
