@@ -14,10 +14,10 @@ export default {
 	redirects() {
 		return [
 			{
-				destination: "https://pepemanager.com",
+				destination: "https://msafe.i0.tf",
 				permanent: true,
-				source: "/bot",
-			},
+				source: "/msafe",
+			}
 		];
 	},
 };

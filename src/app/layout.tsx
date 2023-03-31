@@ -13,7 +13,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 				<link href="/favicon.ico" rel="shortcut icon" />
 			</head>
 
-			<body className="grid h-screen min-h-screen place-items-center bg-gradient-to-b from-black to-gray-800 text-white">
+			<body className="grid h-screen min-h-screen place-items-center bg-gradient-to-b from-indigo-500 to-gray-800 text-white">
 				{children}
 			</body>
 		</html>
@@ -21,7 +21,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 }
 
 export const metadata: Metadata = {
-	title: "Almeida",
+	title: "Tiago R",
 	description: "insert some cool text here",
-	keywords: ["Almeida", "almeidx", "web", "developer"],
+	keywords: ["metal", "metal0", "sysadmin", "developer", "tiago r"],
 };
