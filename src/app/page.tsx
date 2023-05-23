@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { IconType } from "react-icons";
 import { MdEmail } from "react-icons/md";
-import { SiGithub, SiDiscord, SiSteam, SiMatrix } from "react-icons/si";
+import { SiGithub, SiDiscord, SiMatrix } from "react-icons/si";
 
 const socials = [
 	{

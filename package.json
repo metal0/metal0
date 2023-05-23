@@ -1,7 +1,6 @@
 {
 	"name": "website",
 	"private": true,
-	"homepage": "https://almeidx.dev",
 	"scripts": {
 		"build": "next build",
 		"dev": "next dev",
