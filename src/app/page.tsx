@@ -1,13 +1,18 @@
 import Link from "next/link";
 import type { IconType } from "react-icons";
 import { MdEmail } from "react-icons/md";
-import { SiGithub, SiDiscord, SiMatrix } from "react-icons/si";
+import { SiGithub, SiDiscord, SiMatrix, SiLinkedin } from "react-icons/si";
 
 const socials = [
 	{
 		ariaLabel: "Contact by email",
 		href: `mailto:${process.env.DATA_EMAIL}`,
 		Icon: MdEmail,
+	},
+	{
+		ariaLabel: "View LinkedIn profile",
+		href: `https://linkedin.com/in/${process.env.DATA_LINKEDIN!}`,
+		Icon: SiLinkedin,
 	},
 	{
 		ariaLabel: "View GitHub profile",
