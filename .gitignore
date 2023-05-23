@@ -19,3 +19,4 @@ yarn-error.log*
 .next
 .vercel
 .eslintcache
+.env.local

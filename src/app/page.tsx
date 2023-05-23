@@ -6,7 +6,7 @@ import { SiGithub, SiDiscord, SiMatrix } from "react-icons/si";
 const socials = [
 	{
 		ariaLabel: "Contact by email",
-		href: "mailto:metal@i0.tf",
+		href: `mailto:${process.env.DATA_EMAIL}`,
 		Icon: MdEmail,
 	},
 	{
@@ -30,7 +30,7 @@ export default function Page() {
 	return (
 		<div className="max-w-2xl flex-col items-center justify-center px-4">
 			<header>
-				<h1 className="text-4xl font-medium hover:animate-pulse">Tiago R.</h1>
+				<h1 className="text-4xl font-medium hover:animate-pulse">{process.env.DATA_NAME}</h1>
 				<p className="text-xl font-light text-gray-400">Sysadmin and hobbyist backend developer</p>
 			</header>
 
