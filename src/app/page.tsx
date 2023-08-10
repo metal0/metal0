@@ -26,7 +26,7 @@ const socials = [
 	},
 	{
 		ariaLabel: "View Matrix profile",
-		href: "https://matrix.to/#/@metal0:matrix.org",
+		href: "https://matrix.to/#/@metal:i0.tf",
 		Icon: SiMatrix,
 	},
 ] as const satisfies readonly { Icon: IconType; ariaLabel: string; href: string }[];
