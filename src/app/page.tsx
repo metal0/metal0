@@ -1,13 +1,18 @@
 import Link from "next/link";
 import type { IconType } from "react-icons";
 import { MdEmail } from "react-icons/md";
-import { SiGithub, SiDiscord, SiMatrix, SiLinkedin } from "react-icons/si";
+import { SiGithub, SiMatrix, SiLinkedin } from "react-icons/si";
 
 const socials = [
 	{
 		ariaLabel: "Contact by email",
 		href: `mailto:${process.env.DATA_EMAIL}`,
 		Icon: MdEmail,
+	},
+	{
+		ariaLabel: "View Matrix profile",
+		href: "https://matrix.to/#/@metal:i0.tf",
+		Icon: SiMatrix,
 	},
 	{
 		ariaLabel: "View LinkedIn profile",
@@ -18,16 +23,6 @@ const socials = [
 		ariaLabel: "View GitHub profile",
 		href: "https://github.com/metal0",
 		Icon: SiGithub,
-	},
-	{
-		ariaLabel: "View Discord profile",
-		href: "https://discord.com/users/344837487526412300",
-		Icon: SiDiscord,
-	},
-	{
-		ariaLabel: "View Matrix profile",
-		href: "https://matrix.to/#/@metal:i0.tf",
-		Icon: SiMatrix,
 	},
 ] as const satisfies readonly { Icon: IconType; ariaLabel: string; href: string }[];
 
