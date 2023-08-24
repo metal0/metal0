@@ -7,7 +7,7 @@ I'm a sysadmin and a hobby backend developer based in <img width="20" align="cen
 
 Contact:
 <a href="mailto:metal@i0.tf" target="_blank"><img align="center" alt="Email" src="https://img.shields.io/badge/%E2%9C%89-metal@i0.tf-yellow" /></a>
-<a href="https://matrix.to/#/@metal:i0.tf" target="_blank"><img align="center" alt="Matrix" src="https://img.shields.io/badge/%5BM%5D-metal0-green"></a>
+<a href="https://matrix.to/#/@metal:i0.tf" target="_blank"><img align="center" alt="Matrix" src="https://img.shields.io/badge/%5BM%5D-metal-green"></a>
 
 Here are some of the technologies I enjoy using in my projects:
 
