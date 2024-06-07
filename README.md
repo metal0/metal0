@@ -16,5 +16,5 @@ Here are some of the technologies I enjoy using in my projects:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/metal0/metal0/assets/9076708/64158cfb-3ccf-41a7-83f4-79931976ae0a');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/metal0/metal0/assets/9076708/b6a0f122-a7f2-4233-9334-532bb811dc24');]{x0000}$}
 ```
