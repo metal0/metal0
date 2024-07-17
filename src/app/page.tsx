@@ -31,7 +31,7 @@ export default function Page() {
 		<div className="max-w-2xl flex-col items-center justify-center px-4">
 			<header>
 				<h1 className="text-4xl font-medium hover:animate-pulse">{process.env.DATA_NAME}</h1>
-				<p className="text-xl font-light text-gray-400">Sysadmin and hobbyist backend developer</p>
+				<p className="text-xl font-light text-gray-400">Sysadmin</p>
 			</header>
 
 			<div className="mt-4 flex gap-3 text-lg text-gray-300">

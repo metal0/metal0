@@ -30,5 +30,5 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 export const metadata: Metadata = {
 	title: process.env.DATA_NAME!,
 	description: "insert some cool text here",
-	keywords: ["metal", "metal0", "sysadmin", "developer", process.env.DATA_NAME!],
+	keywords: ["metal", "metal0", "sysadmin", process.env.DATA_NAME!],
 };
