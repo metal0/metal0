@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=metal0&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=metal0&theme=dark&hide_border=true&layout=compact&langs_count=6">
 
-I'm a computer man based in <img width="20" align="center" src="https://img.icons8.com/color/96/000000/portugal.png"/> **Portugal**.
+I'm a computer user based in <img width="20" align="center" src="https://img.icons8.com/color/96/000000/portugal.png"/> **Portugal**.
 
 Here are some of the technologies I enjoy using in my projects:
 
